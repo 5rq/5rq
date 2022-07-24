@@ -1,5 +1,3 @@
-![Header](./2.png)
-
 <h1 align="center">Hyeoski</h1>
 <a href="https://github.com/5rq"></a>
 <p align="center">
