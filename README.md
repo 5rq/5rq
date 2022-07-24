@@ -24,4 +24,4 @@
   <img src="https://github-readme-stats.vercel.app/api/?username=5rq&title_color=4F8CC9&text_color=ffffff&show_icons=true&bg_color=00000000&hide_border=true&icon_color=b45eff&hide_title=true&count_private=false" />
 </p>
 
-![Footer](./2.png)
+![Footer](./1.png)
