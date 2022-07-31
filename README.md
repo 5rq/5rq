@@ -1,4 +1,4 @@
-<h1 align="center">Hyeoski</h1>
+<h1 align="center">Hyeoski 👻</h1>
 <a href="https://github.com/5rq"></a>
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/774299626697523200" />
